@@ -1,0 +1,24 @@
+Le jeu de données que je possède provient du Sénégal et se concentre sur les ventes de produits pharmaceutiques.
+  Il comprend plusieurs colonnes, dont certaines ont été nommées en anglais pour des raisons spécifiques. 
+    Voici une description détaillée des principales colonnes de ce jeu de données :
+
+bfname (Nom du Médicament) : Cette colonne répertorie les noms des médicaments vendus. Chaque entrée correspond à un médicament spécifique.
+
+actcost (Chiffre d'Affaires) : La colonne "actcost" représente le chiffre d'affaires généré par la vente de chaque médicament. 
+Ces chiffres sont exprimés dans la devise locale du Sénégal.
+
+chemsub (Catégorie) : La colonne "chemsub" indique la catégorie à laquelle chaque médicament appartient. 
+Elle permet de regrouper les médicaments en fonction de leurs compositions chimiques ou de leurs utilisations thérapeutiques.
+
+month (Mois) : La colonne "month" enregistre le mois au cours duquel les ventes de médicaments ont été effectuées. 
+Elle permet d'analyser les variations saisonnières ou les tendances mensuelles dans les ventes.
+
+quantity (Quantité) : La colonne "quantity" donne la quantité de chaque médicament vendue au cours d'une période donnée.
+Elle fournit des informations importantes sur les volumes de ventes et peut être utilisée pour évaluer la popularité relative des différents médicaments.
+
+Ce jeu de données est une ressource précieuse pour analyser les tendances de vente des produits pharmaceutiques au Sénégal, en se concentrant sur des aspects tels que les performances individuelles des médicaments, les catégories prédominantes, les saisons d'activité accrue, et bien plus encore.
+
+
+
+
+
