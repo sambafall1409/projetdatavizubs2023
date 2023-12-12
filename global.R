@@ -1,0 +1,16 @@
+library(shiny)
+library(tidyr)
+library(lubridate)
+library(forecast)
+library(tidyverse)
+library(plotly)
+library(ggplot2)
+library(TSstudio)
+
+library(conflicted)
+conflict_prefer("filter", "dplyr")
+conflict_prefer("lag", "dplyr")
+library(conflicted)
+conflict_prefer("renderDataTable", "DT")
+
+productdb <- readRDS("./data/productdb.rds")
